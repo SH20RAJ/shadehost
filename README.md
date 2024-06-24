@@ -1,0 +1,2 @@
+# shadehost
+Free Static Hosting 
